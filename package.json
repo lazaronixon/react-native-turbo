@@ -127,7 +127,8 @@
   },
   "eslintIgnore": [
     "node_modules/",
-    "lib/"
+    "lib/",
+    "ios/Turbo.framework"
   ],
   "prettier": {
     "quoteProps": "consistent",

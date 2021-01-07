@@ -1,0 +1,4 @@
+framework module Turbo {
+  header "Turbo-Swift.h"
+  requires objc
+}
